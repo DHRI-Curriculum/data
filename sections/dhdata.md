@@ -1,7 +1,7 @@
 [<<< Previous](power.md) | [Next >>>](yourdata.md)  
 
 # DH and data
-* How might DH approach data? What’s special about DH data?
+## How might DH approach data? What’s special about DH data?
 
 “Those of us who are interested in seeing more robust cultural critique need to be more speciﬁc about where the  intervention  might most productively take place. It’s not only about shifting the focus of projects so that they feature marginalized communities more prominently; it’s about ripping apart and rebuilding the machinery of the archive and database so that it doesn’t reproduce the logic that got us here in the ﬁrst place….What would maps and data visualizations look like if they were built to  show  us  categories like race as they have been experienced, not as they have been captured and advanced by businesses and governments?
 (Posner, 2015)
@@ -11,15 +11,15 @@
 “Understanding how the humanities have traditionally approached big problems can inform how experts in data science can model meaningful conclusions based on the same skillful concern with answering questions based on a serious inquiry. Humanists, after all, are experts at probing the largest questions of our species….The particular skills of humanities scholarship take many forms, but they all agree in emphasizing serious engagement with texts and their contexts.” (Guldi, 2019)
 
 ## What kind of DH data?
-* big (Kaplan, 2015)
-* small (Klienmann, 2016)
-* micro (Risam & Edwards, 2017)
-* smart (Schöch, 2013)
-* ambiguous
-* gender & race (Posner, 2015; McPherson, 2012)
-* historical geographic information (Plewe 2002)
+* Big (Kaplan, 2015)
+* Small (Klienmann, 2016)
+* Micro (Risam & Edwards, 2017)
+* Smart (Schöch, 2013)
+* Ambiguous
+* Gender & race (Posner, 2015; McPherson, 2012)
+* Historical geographic information (Plewe 2002)
 
 
 [<<< Previous](power.md) | [Next >>>](yourdata.md)  
 -----
-[Return to introduction](https://github.com/DHRISMU/data)
+[Return to introduction](https://github.com/SouthernMethodistUniversity/data)
